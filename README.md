@@ -10,7 +10,7 @@ Clone the project or put these files in a zip archive under:
 Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual C#
 ```
 
-If you place Bot-Application.zip in the above directory you can use it inside Visual Studio:
+Place Bot-Application.zip in the directory above and use it as a template:
 
 ```
 File -> New -> Project... -> Visual C# -> Bot Application
