@@ -4,15 +4,21 @@ Bot Builder V3 SDK Template - Bot Application for Visual Studio
 
 ## Getting Started
 
-Clone the project or put these files in a zip archive under
+Clone the project or put these files in a zip archive under:
 
 ```
 Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual C#
 ```
 
+If you place Bot-Application.zip in the above directory you can use it inside Visual Studio:
+
+```
+File -> New -> Project... -> Visual C# -> Bot Application
+```
+
 ### Prerequisites
 
-* [Visual Studio](https://visualstudio.microsoft.com/)
+* Visual Studio [IDE](https://visualstudio.microsoft.com/)
 * Bot Framework [Emulator](https://github.com/Microsoft/BotFramework-Emulator/wiki/Getting-Started)
 
 ## Links
@@ -39,3 +45,5 @@ QnA Maker [API](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamak
 [Microsoft Cognitive Services](https://www.luis.ai)
 
 [Microsoft Knowledge-Base API](https://www.qnamaker.ai)
+
+
