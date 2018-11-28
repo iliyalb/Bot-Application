@@ -18,9 +18,9 @@ Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual C#
 ## Links
 
 You can get **V4** template here:
-```
+
 [Bot Builder V4 SDK Template](https://botbuilder.myget.org/feed/aitemplates/package/vsix/BotBuilderV4.fbe0fc50-a6f1-4500-82a2-189314b7bea2)
-```
+
 
 ### Documentation
 
