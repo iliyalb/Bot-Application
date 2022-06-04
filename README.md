@@ -1,6 +1,8 @@
 # Bot-Application
+![Emulator picture](https://docs.microsoft.com/en-us/azure/bot-service/media/emulator-v4/emulator-welcome.png?raw=true)
+Bot Builder V3 SDK Template - Bot Application for Visual Studio (2015/2017)
 
-Bot Builder V3 SDK Template - Bot Application for Visual Studio
+**Official** Microsoft [Bot Builder V3](https://github.com/microsoft/botbuilder-v3) SDK GitHub repository.
 
 ## Getting Started
 
